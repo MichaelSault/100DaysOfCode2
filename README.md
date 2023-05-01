@@ -5,7 +5,7 @@ I completed 100 days of code earlier this year and have decided to take on the c
 This repo will act as a way to track my progress and all the test projects during the 100 days.
 
 
-##Topics
+## Topics
 1. Complete Data Dog and iRunningLog from my previous 100days challenge
   - iRunningLog
     - Commenting
